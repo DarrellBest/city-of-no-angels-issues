@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: City of No Angels support page
+    url: https://darrellbest.com/games/city-of-no-angels/support/
+    about: Email and support information if you don't want to file a GitHub issue.
