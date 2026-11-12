@@ -1,5 +1,5 @@
 name: Bug report
-description: Something in the game is not working the way it should.
+description: Something in City of No Angels is not working the way it should.
 title: "[Bug] "
 labels: ["bug"]
 body:
@@ -11,7 +11,7 @@ body:
     id: version
     attributes:
       label: Game version
-      description: The version shown in the game, on the store page, or in the install folder.
+      description: The version shown in City of No Angels, on the store page, or in the install folder.
       placeholder: "1.0.0"
     validations:
       required: true
